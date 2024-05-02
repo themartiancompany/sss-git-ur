@@ -8,7 +8,7 @@ _local=false
 _proj="hip"
 _pkgname=sss
 pkgname="${_pkgname}-git"
-pkgver="0.0.0.1.1.1.1".r8.g"11f9348b215313677780da16c1098716534b0b80"
+pkgver=null.rnull.g"0e7feba995b83f51f966eae0b4c646f7e7b0fe2c"
 pkgrel=1
 _pkgdesc=(
   "Screen sharing suite."

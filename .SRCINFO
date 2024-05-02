@@ -1,6 +1,6 @@
 pkgbase = sss-git
 	pkgdesc = Screen sharing suite.
-	pkgver = 0.0.0.1.1.1.1.r8.g11f9348b215313677780da16c1098716534b0b80
+	pkgver = null.rnull.g0e7feba995b83f51f966eae0b4c646f7e7b0fe2c
 	pkgrel = 1
 	url = https://github.com/themartiancompany/sss
 	arch = any
@@ -13,7 +13,7 @@ pkgbase = sss-git
 	makedepends = jq
 	depends = libcrash-bash
 	depends = screen
-	provides = sss=0.0.0.1.1.1.1.r8.g11f9348b215313677780da16c1098716534b0b80
+	provides = sss=null.rnull.g0e7feba995b83f51f966eae0b4c646f7e7b0fe2c
 	conflicts = sss
 	source = sss.tar.gz::https://github.com/themartiancompany/sss/archive/refs/heads/master.tar.gz
 	sha256sums = SKIP
